@@ -6,11 +6,19 @@ complexity of the original ones disappointing, so I changed the requirements sli
 
 
 
-This assignments generally have more of a generic, neutral approach to cybersecurity instead of focusing on one field. 
+This assignments generally have more of a generic, neutral approach to cybersecurity instead of focusing on one field.
 
 While the Google cybersecurity course generally leans towards SOC, it is meant for beginners.
+
+
 
 All credits due to Google for the actual course and assignments.
 
 Credit for hosting the course goes to Coursera
+
+All of the organizations covered in the assignments are fictional.
+
+
+
+All of these assignments were written by Conor van Heerden without any additional AI or human assistance.
 
